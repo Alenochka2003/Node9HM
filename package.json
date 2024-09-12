@@ -1,0 +1,19 @@
+{
+  "name": "node_9hm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+ "type": "commonjs",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.0",
+    "mysql2": "^3.11.2",
+    "sequelize": "^6.37.3",
+    "sequelize-cli": "^6.6.2"
+  }
+}
